@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "暮れに茜、芥と花束",
+  "base_artist": "月詠み",
+  "createdAt": "2025-12-23T15:26:11.538167Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "暮れに茜、芥と花束",
+      "artist": "月詠み",
+      "has_synced": false,
+      "path": "select/pl_01_暮れに茜、芥と花束_月詠み.txt"
+    }
+  ]
+}
